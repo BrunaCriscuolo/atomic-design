@@ -1,14 +1,8 @@
 <p align="center">
   <p align="center">
-   <b>Base e configuração para projetos em React - JS</b>
+   <b>Um simples exemplo de estrutura usando Atomic Design com React - JS</b>
   </p>
 </p>
-
-## :hammer_and_wrench: Tecnologias
-
-- [ESLint](https://eslint.org/)
-- [Husky](https://www.npmjs.com/package/husky)
-- [Prettier](https://prettier.io/)
 
 ---
 
@@ -16,7 +10,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/BrunaCriscuolo/react-base-js-config.git
+$ git clone https://github.com/BrunaCriscuolo/atomic-design.git
 
 # Acesse a pasta do projeto
 
